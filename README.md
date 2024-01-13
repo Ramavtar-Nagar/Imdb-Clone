@@ -21,11 +21,11 @@ Watch list page shows all the movies which are marked as favouriate with some in
 ## Languages Used
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-For making different pages and the basic structure of the project like search bar, add to watchlist icon, delete icon, home page, movie details page and favouriate page etc.
+Used for the basic and good looking styling of the project so that the project looks good and appealing.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-Used for the basic and good looking styling of the project so that the project looks good and appealing.
+For making different pages and the basic structure of the project like search bar, add to watchlist icon, delete icon, home page, movie details page and favouriate page etc.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
